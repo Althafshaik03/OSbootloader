@@ -1,0 +1,44 @@
+An operating system (OS) provides the
+interface between the users of a computer
+and that computer’s hardware.
+– An operating system manages the ways
+applications access the resources in a computer,
+including its disk drives, CPU, main memory, input
+devices, output devices, and network interfaces.
+– An operating system manages multiple users.
+– An operating system manages multiple programs.
+The Kernel
+• The kernel is the core component of
+the operating system. It handles the
+management of low-level hardware
+resources, including memory,
+processors, and input/output (I/O)
+devices, such as a keyboard, mouse,
+or video display.
+• Most operating systems define the
+tasks associated with the kernel in
+terms of a layer metaphor, with the
+hardware components, such as the
+CPU, memory, and input/output
+devices being on the bottom, and
+users and applications being on the
+top.
+x86
+
+x86
+x86 is a backwards compatible family of little-endian, complex instruction set architectures (ISA) introduced in 1978 by Intel[1]. 
+The iterations of the ISA can be broadly classified by integer width:
+~16-bit x86, also referred to as x86_16 or IA-16 (introduced with the Intel 8086 in 1978)
+
+~32-bit x86, also referred to as x86_32 or IA-32 (introduced with the Intel 386 in 1985)
+
+~64-bit x86 (not to be confused with IA-64), also referred to as x86_64, AMD64 or x64. 
+It is also referred to as EM64T, IA-32e or Intel64 by Intel.
+
+The first iteration of the x86 architecture was introduced in 1978 with the 8086.
+ The 8086 was a 16-bit CPU, with 16-bit registers, a 16-bit data bus and a 20-bit address bus. 
+ Thus it was able to address one megabyte of RAM. 
+ Slightly later, the 8088 CPU was introduced, which was internally identical to the 8086, but had a 8-bit data bus. 
+ The 8088 was used by the original IBM PC, introduced in 1981, which was the predecessor of all modern PCs. 
+ Thus, the x86 architecture became the dominant architecture on personal computers.
+
