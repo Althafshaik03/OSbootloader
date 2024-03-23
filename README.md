@@ -1,4 +1,6 @@
 Bootloader built using assembly and C programming language. 
+
+
 Prerequisites
 
 The project requires a Unix-like environment. If you are using Windows, there are various ways of setting one up (WSL, a Linux virtual machine, Cygwin, MSYS2).
