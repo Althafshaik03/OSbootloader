@@ -29,6 +29,6 @@ Running with qemu
 
     run ./run.sh
 
-Debugging with bochs
-Used to debugging and check if the registers are working as intended 
+Debugging with bochs:        Used to debugging and check if the registers are working as intended 
+
     run ./debug.sh
